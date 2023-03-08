@@ -318,6 +318,10 @@ h2 {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-variant: normal /*small-caps;*/;
   font-weight: bold;
+  /*
+      Gracias:
+      https://www.w3schools.com/howto/howto_css_round_buttons.asp
+  */
   border-radius: 6px;
 }
 
