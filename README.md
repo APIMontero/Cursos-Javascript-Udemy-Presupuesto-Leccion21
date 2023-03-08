@@ -9,8 +9,8 @@ Esta permite descargar un archivo JSON con la lista de ingresos o Egresos que se
 
 ### Modo de ejecución
 
-#### En VS Code debe cargar el Live Server y abrir un navegador apuntando a la URL del localhost más el puerto proporcionado por el Live Server. Por lo general el puerto es el 8080.
+#### En VS Code debe cargar el Live Server y abrir un navegador apuntando a la URL del localhost más el puerto proporcionado por el Live Server. Por lo general el puerto es el 8080
 
-#### Se recomienda que agregue al menos tres(3) elementos de datos a cada lista y pruebe a descargar el archivo pulsando en el botón Descargar.
+#### Se recomienda que agregue al menos tres(3) elementos de datos a cada lista y pruebe a descargar el archivo pulsando en el botón Descargar
 
-### Agradezco cualquier comentario constructivo.
+### Agradezco cualquier comentario constructivo
